@@ -1,0 +1,38 @@
+698:	learn: 0.9999320	test: 0.9998923	best: 0.9998995 (654)	total: 5m 32s	remaining: 2m 22s
+699:	learn: 0.9999324	test: 0.9998923	best: 0.9998995 (654)	total: 5m 32s	remaining: 2m 22s
+700:	learn: 0.9999333	test: 0.9998923	best: 0.9998995 (654)	total: 5m 33s	remaining: 2m 22s
+701:	learn: 0.9999337	test: 0.9998923	best: 0.9998995 (654)	total: 5m 33s	remaining: 2m 21s
+702:	learn: 0.9999337	test: 0.9998923	best: 0.9998995 (654)	total: 5m 33s	remaining: 2m 21s
+703:	learn: 0.9999337	test: 0.9998923	best: 0.9998995 (654)	total: 5m 34s	remaining: 2m 20s
+704:	learn: 0.9999341	test: 0.9998923	best: 0.9998995 (654)	total: 5m 35s	remaining: 2m 20s
+bestTest = 0.9998994946
+bestIteration = 654
+Shrink model to first 655 iterations.
+CatBoost task type: GPU
+Accuracy: 0.9997515106044529
+F1 Score: 0.9994634870853677
+ROC AUC: 0.9999975140389352
+Feature: Year, Importance: 0.0
+Feature: Month, Importance: 0.032353262172871634
+Feature: UniqueCarrier, Importance: 0.031949339601909044
+Feature: FlightNum, Importance: 0.008154934018223306
+Feature: ActualElapsedTime, Importance: 33.848753218431916
+Feature: CRSElapsedTime, Importance: 30.4390906053564
+Feature: AirTime, Importance: 0.3868923311311545
+Feature: DepDelay, Importance: 17.847023976121328
+Feature: Distance, Importance: 0.026732858894262808
+Feature: TaxiOut, Importance: 0.8415424899067592
+Feature: Cancelled, Importance: 0.0
+Feature: DepTime_hour, Importance: 0.02595976224543004
+Feature: DepTime_minute, Importance: 0.017939506922233478
+Feature: CRSDepTime_hour, Importance: 0.01835613659065108
+Feature: CRSDepTime_minute, Importance: 0.006408288302523558
+Feature: ArrTime_hour, Importance: 0.8118430610800846
+Feature: ArrTime_minute, Importance: 7.346920265750145
+Feature: CRSArrTime_hour, Importance: 0.7861848061419666
+Feature: CRSArrTime_minute, Importance: 7.438149179641066
+Feature: IsWeekday, Importance: 0.0010428611737269492
+Feature: Route, Importance: 0.0071255956173124635
+Feature: CarrierAvgDelay, Importance: 0.009358414673912822
+Feature: OriginAvgDelay, Importance: 0.046259908972276755
+Feature: DestAvgDelay, Importance: 0.02195919725393701

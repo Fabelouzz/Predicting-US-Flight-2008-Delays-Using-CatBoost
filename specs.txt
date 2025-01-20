@@ -1,0 +1,11 @@
+SPECS OF PC:
+
+Shape of the dataset: (7009728, 29)
+GPU - NVIDIA GeForce RTX2060 
+CPU - AMD Ryzen 5 3600 6-core processor
+Memory - Speed 3200MHz, 16 GB RAM, 
+SSD - File System: NTFS, NVMe SSD
+Random Read Speed (16.0 MB blocks): 407.41 MB/s
+Sequential Read Speed (64.0 MB blocks): 1835.77 MB/s
+Sequential Write Speed (64.0 MB blocks): 2085.16 MB/s
+Average Latency (95th Percentile): 0.211 ms

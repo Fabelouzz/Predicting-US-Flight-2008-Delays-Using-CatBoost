@@ -117,7 +117,7 @@ Predicting-US-Flight-2008-Delays-Using-CatBoost/
      ```
 
 3. **Preprocessing**  
-   - Open or run the preprocessing steps within `catBoost.ipynb` or a separate script (if provided). This will:
+   - Open or run the preprocessing steps within `catBoost.ipynb`. All code is located in this file. Running the first cells will:
      1. Clean the dataset.
      2. Filter out invalid time entries.
      3. Create features such as Route, IsWeekday, and average delay columns.
